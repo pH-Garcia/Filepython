@@ -11,3 +11,4 @@ altura = input ('Qual sua altura?')
 
 print ('Idade:',idade,'Peso:',peso,'Altura:',altura)
 
+# Alteração simples, teste de versionamento
